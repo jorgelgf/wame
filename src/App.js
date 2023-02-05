@@ -13,7 +13,6 @@ function App() {
 event.preventDefault()
 const page = state.replace(/\D/g, '')
 window.open(`https://wa.me/55${page}`, '_blank');
-
   }
 
 
@@ -21,7 +20,7 @@ window.open(`https://wa.me/55${page}`, '_blank');
       <Header text='WaMe'/>
       <S.Item>
         <form style={{display:'flex'}} onSubmit={handleSubmit}>
-      <Input onChange = {(event)=>setState(event.target.value)}text='EX.: 10.11.1.1'/><Button/>
+      <Input onChange = {(event)=>setState(event.target.value)}text='EX.: 87-5846988'/><Button/>
       </form>
       </S.Item>
       <p></p>
