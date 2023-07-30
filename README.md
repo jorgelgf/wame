@@ -3,4 +3,4 @@
 
 <img src="https://i.ibb.co/nwg1HNq/page.png" alt="img site">
 
-Clique <a href='https://app.netlify.com/sites/wamesite/overview' target='_blank'>AQUI </a>para ver o site!.
+Clique <a href='https://wamesite.netlify.app/' target='_blank'>AQUI </a>para ver o site!.
