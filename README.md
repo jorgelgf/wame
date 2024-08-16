@@ -3,4 +3,4 @@
 
 <img src="https://i.ibb.co/nwg1HNq/page.png" alt="img site">
 
-Click <a href='https://wamesite.netlify.app/' target='_blank'>HERE </a>o see the project.
+Clique <a href='https://wamesite.netlify.app/' target='_blank'>AQUI</a> para ver o projeto em funcionamento.
