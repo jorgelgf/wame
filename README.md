@@ -1,5 +1,5 @@
 # WaMe
-### Project that aims to consume the WhatsApp API to send messages in a simple way, without having to save contacts
+## Projeto que visa consumir a API do whatsApp e enviar mensagem de forma super simples
 
 <img src="https://i.ibb.co/nwg1HNq/page.png" alt="img site">
 
